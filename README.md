@@ -1,2 +1,3 @@
-# demo-lashy-beauty-lounge
-Tailored local business demo website for LASHY Beauty Lounge.
+# LASHY Beauty Lounge demo
+
+Tailored local business website demo. Uses stock-style placeholder imagery, not copied Instagram posts.
